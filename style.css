@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+  body {
+        font-size:36px;
+        text-align:center;
+        color:#000fff;
+  }
+  span {
+        color:#ffff00;
+        background-color:000;
+  }
